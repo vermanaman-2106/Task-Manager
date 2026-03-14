@@ -69,7 +69,7 @@ npm run dev
 
 Backend runs on
 
-http://localhost:8000
+https://task-manager-wnyo.onrender.com/
 
 # Frontend Setup
 
@@ -87,7 +87,7 @@ npm run dev
 
 Frontend runs on
 
-http://localhost:5173
+https://task-manager-delta-sage-59.vercel.app?_vercel_share=TaVVe24Hr5bXkKd8VrdHTRWlT65WakkH
 
 # API Endpoints
 
@@ -95,35 +95,35 @@ http://localhost:5173
 
 Register
 
-POST /api/v1/auth/register
+POST https://task-manager-wnyo.onrender.com/api/v1/auth/register
 
 Login
 
-POST /api/v1/auth/login
+POST https://task-manager-wnyo.onrender.com/api/v1/auth/login
 
 ### Tasks
 
 Create Task
 
-POST /api/v1/tasks
+POST https://task-manager-wnyo.onrender.com/api/v1/tasks
 
 Get Tasks
 
-GET /api/v1/tasks
+GET https://task-manager-wnyo.onrender.com/api/v1/tasks
 
 Update Task
 
-PUT /api/v1/tasks/:id
+PUT https://task-manager-wnyo.onrender.com/api/v1/tasks/{id}
 
 Delete Task
 
-DELETE /api/v1/tasks/:id
+DELETE https://task-manager-wnyo.onrender.com/api/v1/tasks/{id}
 
 # API Documentation
 
 Swagger documentation available at:
 
-http://localhost:8000/api-docs
+https://task-manager-wnyo.onrender.com/api-docs
 
 
 <!-- Scalability Note -->
